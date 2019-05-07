@@ -1,0 +1,32 @@
+.boardContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.board {
+  display: flexbox;
+  flex-direction: row;
+  justify-items: center;
+  align-items: center;
+
+  width: 190px;
+  padding: 0 20px;
+}
+
+.history {
+  font-size: 18px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: #fff;
+  margin-top: 30px;
+}
+
+.history li {
+  color: #ccc;
+  font-size: 14px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-top: 10px;
+}

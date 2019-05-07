@@ -1,0 +1,12 @@
+.player {
+  font-family: sans-serif;
+  -webkit-font-smoothing: antialiased !important;
+  font-size: 22px;
+  color: #fff;
+  text-shadow: 2px 2px 4px #333;
+  text-transform: uppercase;
+  margin: 10px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

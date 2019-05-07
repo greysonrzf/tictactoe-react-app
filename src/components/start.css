@@ -1,0 +1,10 @@
+#start {
+  border: 3px solid #fff;
+  border-radius: 8px;
+  background: none;
+  text-transform: uppercase;
+  color: #fff;
+  width: 150px;
+  height: 35px;
+  margin-top: 10px;
+}
